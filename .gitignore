@@ -1,0 +1,2 @@
+#Keep atom ctags file from getting into remotes
+.tags*
